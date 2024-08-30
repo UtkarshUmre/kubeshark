@@ -1,0 +1,4 @@
+## Append samples of your project ##
+resources:
+- kubeshark.example.io_v1alpha1_kubesharkoperator.yaml
+#+kubebuilder:scaffold:manifestskustomizesamples
